@@ -1,0 +1,15 @@
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/bin/Debug/net6.0/001_2
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/bin/Debug/net6.0/001_2.deps.json
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/bin/Debug/net6.0/001_2.runtimeconfig.json
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/bin/Debug/net6.0/001_2.dll
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/bin/Debug/net6.0/001_2.pdb
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/001_2.csproj.AssemblyReference.cache
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/001_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/001_2.AssemblyInfoInputs.cache
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/001_2.AssemblyInfo.cs
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/001_2.csproj.CoreCompileInputs.cache
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/001_2.dll
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/refint/001_2.dll
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/001_2.pdb
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/001_2.genruntimeconfig.cache
+/Users/nataliyaivanova/Desktop/lesson 1/001/001_2/obj/Debug/net6.0/ref/001_2.dll
